@@ -44,10 +44,13 @@ Local instructors can deliver the theoretical content directly or use this recor
 
 Time to explore concepts: 
 
-* Exploring Clustering: Draw points, select clusters and adjusted with "iterations":
-[Exploring Clustering](https://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/)
+* Exploring Clustering #1: Draw points, select clusters and adjusted with "iterations":
+[Exploring Clustering #1](https://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/)
 
-* Exploring Clasification: After user registration, visit "Examples" and enjoy!
+* Exploring Clustering #2: Select the example case, explore the plot, and change variables:
+[Exploring Clustering #2](https://prismtc.co.uk/resources/free-tools/pca-3d-visualiser)
+
+* Exploring Classification: After user registration, visit "Examples" and enjoy!
 [Exploring Classification](https://app.landing.ai/app/95253393852424/examples)
 
 
