@@ -31,12 +31,8 @@ By the end of this course, participants will be able to:
 - **Apply** best practices for reproducibility and interpretability in AI-driven biological research projects.
 
 ## Recording - Theoretical content
-Local instructors can deliver the theoretical content directly or use this recording:
 
 [Deep Learning](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=032f52cf-f0ac-42af-ae4a-b3db011092ed)
-
-   
-## Materials and tutorials
 
 ### Slides:
 [**Introduction**](https://docs.google.com/presentation/d/1A1bt5OBo7YuX_YoV4ORMC7DKHngJTi9D/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Establish a foundational understanding of Deep Learning, including its place within the broader field of Artificial Intelligence, the main learning paradigms, and widely-used development frameworks.
@@ -52,23 +48,15 @@ Before working on any Google Colab notebook, create your own copy by selecting F
 
 *How Google Colab works*: Code is organized into cells. Execute each cell by clicking the Run (▶) button (left side of the code). Run the cells in order, from top to bottom, as each step may depend on the results of the previous one. Wait for a cell to finish executing before proceeding to the next.
 
-Each case study is supported by two types of notebooks:
-
-- **Attendee Notebook:** Designed for hands-on learning, including guided activities and TODO tasks to actively engage attendees in the implementation process.  
-- **Reference Notebook:** Provides a complete and fully functional implementation to support instructors and serve as a reference solution.  
-
 **Case 1: Molecular Property Prediction using [ESOL Dataset](https://drive.google.com/file/d/1QL5lZp3m5mDQ_ilaoTdcZb5IUpNipTH-/view?usp=drive_link):** build and train a neural network to predict the solubility of chemical compounds
 using molecular descriptors from the ESOL dataset.
 <br>
 
-- [**Attendee Notebook**](https://colab.research.google.com/drive/1TH8QVmHmIwApXZsvsBhQ7ryjSgvVnUFr?usp=drive_link)
 - [**Reference Notebook**](https://colab.research.google.com/drive/1MiRjUU-7pM_l7GGzysjlFiHLY6PMMBtZ?usp=drive_link)  
-
 
 **Case 2: Genomic Sequence Classification (DNABERT-2)**:  fine-tune a pre-trained language model for DNA sequences (DNABERT-2) to classify COVID-19 variants.
 <br>
 
-- [**Attendee Notebook**](https://colab.research.google.com/drive/1z6mCZsTjcwUeh74AhO_36Go4Q9ZwItaI?usp=drive_link)
 - [**Reference Notebook**](https://colab.research.google.com/drive/1Pri3mAmBP2SJ_MX6c_jTcP_32Zpex3eZ?usp=drive_link) 
 - [**Dataset**](https://drive.google.com/file/d/1NabkL2UGQaDF8DcNUtOeHTt2fjq0r2vr/view?usp=drive_link) 
 
