@@ -32,10 +32,10 @@ By the end of this course, participants will be able to:
 5. Deliver AI contents with best teaching/learning practices in biological research.
    
 ## Recording - Theoretical content
-Local instructors can deliver the theoretical content directly or use this recording:
 
-[AlphaFold](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4272ae5a-eb2f-42da-93b9-b3fc01022a49)
+[AlphaFold - VIDEO](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4272ae5a-eb2f-42da-93b9-b3fc01022a49)
 
+[AlphaFold - SLIDES](https://docs.google.com/presentation/d/1RnYGz_h47Z55G1IY_PV8h3N43HvjM8dYx-gOXetxWfI/edit?usp=sharing)
 
 ## Materials and tutorials
 
@@ -45,8 +45,6 @@ Go to [https://www.pymol.org/](https://www.pymol.org/), click the **Download** b
 Then, to obtain a license, go to [https://pymol.org/edu/](https://pymol.org/edu/) and fill out the form. You will receive an email with information on how to download the license.
 Run PyMOL and follow the instructions to load the license.
 Then complete the tutorial at [https://pymolwiki.org/index.php/Biochemistry\_student\_intro](https://pymolwiki.org/index.php/Biochemistry_student_intro) to become familiar with PyMOL. Follow the instructions up to the section titled **“The Faster Way.”**
-
-[AlphaFold Slides](https://docs.google.com/presentation/d/1RnYGz_h47Z55G1IY_PV8h3N43HvjM8dYx-gOXetxWfI/edit?usp=sharing)
 
 [Tutorial](https://docs.google.com/document/d/1fa7hezxb6BzMVV6M3WnTeQaShLAUFPdl/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
 
