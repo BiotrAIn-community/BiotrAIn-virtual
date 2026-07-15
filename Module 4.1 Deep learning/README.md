@@ -32,7 +32,7 @@ By the end of this course, participants will be able to:
 
 ## Recording - Theoretical content
 
-[Deep Learning](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=032f52cf-f0ac-42af-ae4a-b3db011092ed)
+[Deep Learning - VIDEO](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=032f52cf-f0ac-42af-ae4a-b3db011092ed)
 
 **Slides**
 
