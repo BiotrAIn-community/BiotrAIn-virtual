@@ -11,23 +11,23 @@ The BiotrAIn project, supported by the Chan Zuckerberg Initiative, aims to creat
 
 Our intended impact is that Latin America is able to participate as an equal partner in globally important bioscience projects that use or develop artificial intelligence methods.
 
+
 ### Virtual course - Module coordinators
 
-Jose Arturo Molina Mora - University of Costa Rica (Course coordinator)
+Jose Arturo Molina Mora - University of Costa Rica, Costa Rica (Course coordinator)
 
-Rebeca Campos Sáchez - University of Costa Rica
+Rebeca Campos Sáchez - University of Costa Rica, Costa Rica
 
-Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
+Carla Valeria Filippi, Universidad de la República, Uruguay
 
 Maria Fernanda Dias, Federal University of Rio de Janeiro (UFRJ) – Center for Health Sciences (CCS) – Institute of Biodiversity and Sustainability (NUPEM), Brazil
 
-Nelly Selem, National Autonomous University of México Center of Mathematical Sciences, México
+Nelly Selem, National Autonomous University of México, México
 
-Adrián Turjanski, Facultad de ciencias exactas y natirales, Universidad de Buenos Aires, Argentina
+Adrián Turjanski, Universidad de Buenos Aires, Argentina
 
 Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
 
-Cindy Aguilar Bartels - University of Costa Rica, Project manager, Costa Rica
 
 
 ### BiotrAIn Project - Core team
