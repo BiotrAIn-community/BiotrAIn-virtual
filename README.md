@@ -61,7 +61,7 @@ By the end of this course, participants will be able to apply foundational conce
 5. Deliver AI contents with best teaching/learning practices in biological research.
 
 
-##Clarification Note
+## Clarification Note
 
 This course is the virtual version of two previous in-person editions: an initial "Pilot course" and a second edition "Hub and Spokes". This third edition has been redesigned as a fully open, online course to reach the broader scientific community across Latin America.
 
