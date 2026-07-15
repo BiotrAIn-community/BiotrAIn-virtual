@@ -34,7 +34,8 @@ By the end of this course, participants will be able to:
 
 [Deep Learning](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=032f52cf-f0ac-42af-ae4a-b3db011092ed)
 
-### Slides:
+**Slides**
+
 [**Introduction**](https://docs.google.com/presentation/d/1A1bt5OBo7YuX_YoV4ORMC7DKHngJTi9D/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Establish a foundational understanding of Deep Learning, including its place within the broader field of Artificial Intelligence, the main learning paradigms, and widely-used development frameworks.
 <br><br>
 [**How Deep Learning works**](https://docs.google.com/presentation/d/1aMxVvYJRQghqzJCXnw0vXT686iXuGzXc/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Explain how deep learning models function, including key components of training, optimization, evaluation, and common challenges.
