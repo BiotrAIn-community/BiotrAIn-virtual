@@ -25,7 +25,6 @@ By the end of this course, participants will be able to:
 Preprocess and analyze biological datasets using clustering algorithms, including those from regional databases (e.g., LATAM).
     
 ## Recording - Theoretical content
-Local instructors can deliver the theoretical content directly or use this recording:
 
 [General Concepts in Clustering - VIDEO](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1146a238-bf45-4c03-848a-b3fb0105eeb2)
 
