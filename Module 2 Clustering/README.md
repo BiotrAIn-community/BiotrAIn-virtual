@@ -27,17 +27,13 @@ Preprocess and analyze biological datasets using clustering algorithms, includin
 ## Recording - Theoretical content
 Local instructors can deliver the theoretical content directly or use this recording:
 
-[General Concepts in Clustering](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1146a238-bf45-4c03-848a-b3fb0105eeb2)
+[General Concepts in Clustering - VIDEO](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1146a238-bf45-4c03-848a-b3fb0105eeb2)
 
-[Clustering: Dimensionality Reduction](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d5693ee5-bd5f-43b5-b544-b3fa01132e3b)
+[General Concepts in Clustering - SLIDES](https://docs.google.com/presentation/d/1uObB1o7u9Dwyu6pjvKTKtO_tpvQrtid_/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
 
+[Clustering: Dimensionality Reduction - VIDEO](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d5693ee5-bd5f-43b5-b544-b3fa01132e3b)
 
-## Materials and tutorials  
-
-### Theoretical classes and presentations
-[General Concepts in Clustering](https://docs.google.com/presentation/d/1uObB1o7u9Dwyu6pjvKTKtO_tpvQrtid_/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
-
-[Clustering: Dimensionality Reduction](https://docs.google.com/presentation/d/14IFKYBtE_miKg7nCuF2hJuadDwgs8N9K/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
+[Clustering: Dimensionality Reduction - SLIDES](https://docs.google.com/presentation/d/14IFKYBtE_miKg7nCuF2hJuadDwgs8N9K/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
 
 ### Tutorials
 
@@ -46,11 +42,20 @@ Before working on any Google Colab notebook, create your own copy by selecting F
 *How Google Colab works*: Code is organized into cells. Execute each cell by clicking the Run (▶) button (left side of the code). Run the cells in order, from top to bottom, as each step may depend on the results of the previous one. Wait for a cell to finish executing before proceeding to the next.
 
 [Notebook 1 Understanding the EMP Dataset](https://colab.research.google.com/drive/13IgS-6J_gzDYdTlPzp4cxVk3pbZe05dZ)   
+
 [Notebook 2 Beta diversity](https://colab.research.google.com/drive/1h7PQhuDl-GZ3a4JTz4-k0Ybk2KfOcb_A)   
+
 [Notebook 3 Dimentional Reduction](https://colab.research.google.com/drive/1yAoF9JOnCPCRBMplS94W9-lBSlpGv2yc)   
+
 [Notebook 4 Clustering](https://colab.research.google.com/drive/13zN7xrSM-dsF6IutkHL30bIG6kyVYsDl)     
+
 [Notebook 5 Clustering evaluation](https://colab.research.google.com/drive/1o_XvTKWHgP15kvFhxeOvOj5rcQp0pW7U)   
+
+
+## Optional Tutorials
+
 [Notebook 6 Other datasets](https://colab.research.google.com/drive/1tvQkMGaGtaPnfAOL0R7osTLyP260ZX4z)   
+
 [Notebook 7 Clustering cancer data (solved)](https://colab.research.google.com/drive/1001_A_Rr1P3B8z96cOzQ6v96GL9URkRh?usp=sharing)
 
 
