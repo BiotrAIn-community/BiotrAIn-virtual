@@ -2,20 +2,39 @@
 
 # BiotrAIn course: Concepts, approaches and applications of Artificial Intelligence in bioscience
 
-### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
+### Virtual Course - Latin America
 
 ### Background
-A group of collaborators from Universidad de Costa Rica, CABANAnet and EMBL’s European Bioinformatics Institute (EMBL-EBI) have joined to address some disparities in bioscience-related AI through training. Now, in the second phase, "Hub&Spokes", several academic institutions across Latin America have joined us to continue extending the community and triggering AI skills. 
+A group of collaborators from Universidad de Costa Rica, CABANAnet and EMBL’s European Bioinformatics Institute (EMBL-EBI) have joined to address some disparities in bioscience-related AI through training. For this open & virtual training course, several academic institutions across Latin America have joined us to continue extending the community and triggering AI skills. 
  
 The BiotrAIn project, supported by the Chan Zuckerberg Initiative, aims to create a fundamental and sustainable curriculum on artificial intelligence (AI) for bioscientists from Latin America, including data science basics, and leading towards the use and application of AI to better solve biological and biomedical problems.
 
 Our intended impact is that Latin America is able to participate as an equal partner in globally important bioscience projects that use or develop artificial intelligence methods.
 
-### Core team
+### Virtual course - Module coordinators
+
+Jose Arturo Molina Mora - University of Costa Rica (Course coordinator)
+
+Rebeca Campos Sáchez - University of Costa Rica
+
+Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
+
+Maria Fernanda Dias, Federal University of Rio de Janeiro (UFRJ) – Center for Health Sciences (CCS) – Institute of Biodiversity and Sustainability (NUPEM), Brazil
+
+Nelly Selem, National Autonomous University of México Center of Mathematical Sciences, México
+
+Adrián Turjanski, Facultad de ciencias exactas y natirales, Universidad de Buenos Aires, Argentina
+
+Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
+
+Cindy Aguilar Bartels - University of Costa Rica, Project manager, Costa Rica
+
+
+### BiotrAIn Project - Core team
 
 Cath Brooksbank - EMBL-EBI, Principal Investigator, UK
 
-Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
+Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, Regional Coordinator for LATAM, Costa Rica
 
 Rebeca Campos Sáchez - University of Costa Rica, Co-Investigator, CABANAnet, Costa Rica
 
@@ -28,88 +47,6 @@ Juanita Riveros - EMBL-EBI, Events Organiser, UK
 Lizzie Bridget Divala - EMBL-EBI, Project manager, UK
  
 
-
-### BiotrAIn community - Module coordinators
-
-Jose Arturo Molina Mora, Universidad de Costa Rica, Costa Rica
-
-Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
-
-Maria Fernanda Dias, Federal University of Rio de Janeiro (UFRJ) – Center for Health Sciences (CCS) – Institute of Biodiversity and Sustainability (NUPEM), Brazil
-
-Nelly Selem, National Autonomous University of México Center of Mathematical Sciences, México
-
-Adrián Turjanski, Facultad de ciencias exactas y natirales, Universidad de Buenos Aires, Argentina
-
-Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
-
-
- 
-### BiotrAIn community - Classrooms for Hub&Spokes
-
-![image](https://github.com/BiotrAIn-community/BiotrAIn-hub-spokes/blob/main/Hub%26spokes%20IMAGE%20biotrain%204.jpg.jpeg)
-
-*University of Costa Rica, Costa Rica*
-
-* Cath Brooksbank
-* Jose Molina Mora
-* Rebeca Campos Sánchez
-* Maikol Solis Chacón
-
-*University of Antioquia in Medellín, Colombia*
-
-* Benilton Carvalho
-* Hernan Salinas
-* Isabella Gallego
-* Olga López Acevedo
-* Yesid Cuesta Astroz
-
-*University Andres Bello, Santiago, Chile*
-
-* Felipe Sepulveda 
-* Juan F. Calderon
-* Juan A. Ugalde
-* Romina Sepulveda
-
-*ENES Unidad León, National Autonomous University of Mexico, Mexico*
-
-* Alejandra Rougon Cardoso
-* Cesaré Ovando-Vázquez
-* Noé García Chávez
-* Nelly Sélem
-* Víctor Muñiz
-* Miguel Angel Magaña
-* Varinia López Ramírez
-
-*University of Buenos Aires (FCEN-UBA), Argentina*
-
-* Adrián Turjanski
-* Carla Filippi
-* Juan Antonio Bizzotto
-* Marcelo Martí
-* María Inés Fariello
-* María Sol Ruíz
-
-*Aggeu Magalhães Institute / Fiocruz Pernambuco, Brazil*
-
-* Beatriz Melo
-* Camila Lins
-* João Pitta
-* Maria Fernanda Dias
-* Marcos Daniel Farfan
-* Matheus Azevedo  
-* Nicole Scherer
-* Túlio Campos
-
-*CIFASIS, Argentina*
-
-* Elizabeth Tapia
-* Flavio Spetale
-* Gustavo Rodriguez
-* Javier de las Rivas
-* Natalia Iglesias
-
- 
 ## Learning outcomes
 By the end of this course, participants will be able to apply foundational concepts of artificial intelligence and machine learning to biological data, including situations in the LATAM context, leveraging their existing data analysis skills to:
 
