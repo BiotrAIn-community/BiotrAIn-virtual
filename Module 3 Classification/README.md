@@ -43,6 +43,11 @@ Local instructors can deliver the theoretical content directly or use this recor
 
 ### Pipelines
 
+Before working on any Google Colab notebook, create your own copy by selecting File → Save a copy in Drive. Always work from your copy to ensure your changes are saved. Repeat this step for every Google Colab notebook used throughout the course.
+
+*How Google Colab works*: Code is organized into cells. Execute each cell by clicking the Run (▶) button (left side of the code). Run the cells in order, from top to bottom, as each step may depend on the results of the previous one. Wait for a cell to finish executing before proceeding to the next.
+
+
 [All-datasets](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/Classification-alldata.zip)
 
 [Tutorial in R: Concepts of classification - EMPTY-for-students](https://colab.research.google.com/drive/1_xOul2GPcESxzbp3UXlEHULfrbZXQEyE?usp=sharing)
