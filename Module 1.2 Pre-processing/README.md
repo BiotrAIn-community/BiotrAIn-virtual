@@ -2,11 +2,11 @@
 
 # BiotrAIn course: Concepts, approaches and applications of Artificial Intelligence in bioscience
 
-### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
+### Virtual Course - Latin America
 
 ## Module 1.2: Pre-processing 
 
-It is recommended to explore the full pipeline of this section prior to the course. This will allow participants not only to approach data preprocessing, but also to become familiar with Google Colab and gain an initial understanding of the course topics. There is no need to understand everything in detail at this stage, as your comprehension will improve after completing the course.
+This material will allow participants not only to approach data preprocessing, but also to become familiar with Google Colab and gain an initial understanding of the course topics. There is no need to understand everything in detail at this stage, as your comprehension will improve after completing the course.
 After the course, revisiting the pipeline is encouraged to assess knowledge gained through participation. During the time allocated in Module 1, emphasis will be placed on key concepts and initial analyses required to prepare data for subsequent use in artificial intelligence applications.
 
 
