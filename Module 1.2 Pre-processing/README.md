@@ -6,8 +6,8 @@
 
 ## Module 1.2: Pre-processing 
 
-This material will allow participants not only to approach data preprocessing, but also to become familiar with Google Colab and gain an initial understanding of the course topics. There is no need to understand everything in detail at this stage, as your comprehension will improve after completing the course.
-After the course, revisiting the pipeline is encouraged to assess knowledge gained through participation. During the time allocated in Module 1, emphasis will be placed on key concepts and initial analyses required to prepare data for subsequent use in artificial intelligence applications.
+This material will allow participants not only to approach data preprocessing, but also to become familiar with Google Colab and gain an initial understanding of the course topics. **There is no need to understand everything in detail at this stage, as your comprehension will improve after completing the course.
+After the course, revisiting the pipeline is encouraged to assess knowledge gained through participation.** During the time allocated in Module 1, emphasis will be placed on key concepts and initial analyses required to prepare data for subsequent use in artificial intelligence applications.
 
 
 ### Collaborators
