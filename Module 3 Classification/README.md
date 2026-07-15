@@ -25,21 +25,14 @@ By the end of this course, participants will be able to:
 
 [General Concepts in Classification - SLIDES](https://drive.google.com/file/d/1ODy8Hq2wa0Vs2zEBiM95SlUUgXI6oNdj/view?usp=sharing)
 
-## Materials and tutorials
-
-### Theoretical classes and presentations
-
-* [Demo-classification.zip](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/Demo-classification.zip)
+## Other Materials 
 
 * [TeachableMachine App](https://teachablemachine.withgoogle.com/train)
-
-* [Demo-LandingLens](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/Data-LandindLens.zip)
 
 * [LandingLens App](https://app.landing.ai/app/95253393852424/home)
 
 [Fundamentals of Basic Algorithms in Classification](https://drive.google.com/file/d/1KIK-0VRibBvr6YY34KStMmU7taCUO30Y/view?usp=sharing)
 
-[Application: GO classification-BiotrAIn](https://drive.google.com/file/d/1EgslU6WwD6yTjCgEnCinKIYfx4L4SP3X/view?usp=sharing)
 
 ### Pipelines
 
@@ -47,22 +40,21 @@ Before working on any Google Colab notebook, create your own copy by selecting F
 
 *How Google Colab works*: Code is organized into cells. Execute each cell by clicking the Run (▶) button (left side of the code). Run the cells in order, from top to bottom, as each step may depend on the results of the previous one. Wait for a cell to finish executing before proceeding to the next.
 
-## Case 1: Perturbome
+**Case 1: Perturbome**
 
 [Tutorial in R: Concepts of classification](https://colab.research.google.com/drive/1_jbMf1k8sOaavtGWsDnUYiVK89kPcrHe?usp=sharing)
 
 * [Data Perturbome](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/perturbome-data.csv)
 
 
-## Optional Case 1: Gene Ontology - Classification
+**Optional Case 1: Gene Ontology - Classification**
 
 [Application 1: GO classification](https://colab.research.google.com/drive/1t4UZeBoU9joe_Q70lRPX4WyPGf2zj8H_#scrollTo=JnPNlsMNrJks)
 
-* [Tutorial in R: GO Classification](https://www.cifasis-conicet.gov.ar/bioinformatica/fgga/GO_classification_BiotrAIn.html)
 * [Data-GO](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/dxFeatures_GOs_Hm.csv)
 
 
-## Optional Case 1: Cancer - Classification
+**Optional Case 2: Cancer - Classification**
 
 [Application 2: Prostate cancer patients classification](https://colab.research.google.com/drive/1tjgALPbuRqsw-Yqqtj4XdjqOBfh_XeQC?usp=sharing)
 
