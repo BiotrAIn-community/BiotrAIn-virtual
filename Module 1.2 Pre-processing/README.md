@@ -24,11 +24,11 @@ By the end of this course, participants will be able to:
 ## Recording - Theoretical content
 Local instructors can deliver the theoretical content directly or use this recording:
 
-[Pre-processing](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=837c4e17-8440-4db7-8ac8-b42801078431)
+[Pre-processing - VIDEO](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=837c4e17-8440-4db7-8ac8-b42801078431)
+
+[Pre-processing - SLIDES](https://docs.google.com/presentation/d/1MaHagocEOCCEklNmnyMQtLvbSBNMUAzO/edit?usp=sharing&ouid=103579894419171730610&rtpof=true&sd=true)
 
 ## Materials and tutorials
-
-[Pre-processing](https://docs.google.com/presentation/d/1MaHagocEOCCEklNmnyMQtLvbSBNMUAzO/edit?usp=sharing&ouid=103579894419171730610&rtpof=true&sd=true)
 
 [Pipeline](https://colab.research.google.com/drive/1x5qa8c1NZjt_Z_ZjFMaqBKgDGsjuFKcX?ts=69d5b69a)
 
