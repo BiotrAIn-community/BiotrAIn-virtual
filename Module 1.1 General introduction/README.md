@@ -33,7 +33,6 @@ By the end of this course, participants will be able to:
 3. Explore AI global framework, readiness and overall capabilities required to implement AI on a large scale. 
 
 ## Recording - Theoretical content
-Local instructors can deliver the theoretical content directly or use this recording:
 
 [General concepts of AI - VIDEO](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7e854b8f-dbd6-4e71-9f5f-b4030104ce93)
 
