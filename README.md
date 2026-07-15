@@ -32,13 +32,11 @@ Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
 
 ### BiotrAIn Project - Core team
 
-Cath Brooksbank - EMBL-EBI, Principal Investigator, UK
+Kim Gurwitz - EMBL-EBI, Principal Investigator, UK
 
-Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, Regional Coordinator for LATAM, Costa Rica
+Jose Arturo Molina Mora - University of Costa Rica, Principal Investigator for LATAM, Costa Rica
 
 Rebeca Campos Sáchez - University of Costa Rica, Co-Investigator, CABANAnet, Costa Rica
-
-Kim Gurwitz - EMBL-EBI, Project manager, UK
 
 Cindy Aguilar Bartels - University of Costa Rica, Project manager, Costa Rica
 
@@ -46,6 +44,8 @@ Juanita Riveros - EMBL-EBI, Events Organiser, UK
 
 Lizzie Bridget Divala - EMBL-EBI, Project manager, UK
  
+Cath Brooksbank - EMBL-EBI, Former Principal Investigator, UK
+
 
 ## Learning outcomes
 By the end of this course, participants will be able to apply foundational concepts of artificial intelligence and machine learning to biological data, including situations in the LATAM context, leveraging their existing data analysis skills to:
