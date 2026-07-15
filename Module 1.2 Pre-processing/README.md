@@ -34,7 +34,7 @@ Before working on any Google Colab notebook, create your own copy by selecting F
 
 *How Google Colab works*: Code is organized into cells. Execute each cell by clicking the Run (▶) button or by pressing Shift + Enter. Run the cells in order, from top to bottom, as each step may depend on the results of the previous one. Wait for a cell to finish executing before proceeding to the next.
 
-[Pipeline](https://colab.research.google.com/drive/1x5qa8c1NZjt_Z_ZjFMaqBKgDGsjuFKcX?ts=69d5b69a)
+[Pre-processing Pipeline](https://colab.research.google.com/drive/1x5qa8c1NZjt_Z_ZjFMaqBKgDGsjuFKcX?ts=69d5b69a)
 
 
 ## License
