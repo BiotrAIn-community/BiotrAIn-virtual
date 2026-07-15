@@ -2,9 +2,9 @@
 
 # BiotrAIn course: Concepts, approaches and applications of Artificial Intelligence in bioscience
 
-### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
+### Virtual Course - Latin America
 
-## Module #1.3: Responsible use of AI
+## Module #5.1: Responsible use of AI
 
 This module explores the ethical challenges, social impacts, and regulatory issues surrounding the development and use of Artificial Intelligence (AI).
 It aims to promote critical reflection on how AI technologies are designed, implemented, and governed across different contexts, with special attention to issues of fairness, transparency, accountability, privacy, and social justice.
