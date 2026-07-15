@@ -2,9 +2,9 @@
 
 # BiotrAIn course: Concepts, approaches and applications of Artificial Intelligence in bioscience
 
-### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
+### Virtual Course - Latin America
 
-## Module #5: Train the trainer
+## Module #5.2: Train the trainer
 
 ### Collaborators
 
