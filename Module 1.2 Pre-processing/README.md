@@ -22,7 +22,6 @@ By the end of this course, participants will be able to:
 1. Identify appropriate concepts and techniques of data pre-processing for AI analysis with applications to bioscience. 
 
 ## Recording - Theoretical content
-Local instructors can deliver the theoretical content directly or use this recording:
 
 [Pre-processing - VIDEO](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=837c4e17-8440-4db7-8ac8-b42801078431)
 
