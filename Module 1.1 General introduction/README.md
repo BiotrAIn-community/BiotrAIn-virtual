@@ -35,12 +35,11 @@ By the end of this course, participants will be able to:
 ## Recording - Theoretical content
 Local instructors can deliver the theoretical content directly or use this recording:
 
-[General concepts of AI](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7e854b8f-dbd6-4e71-9f5f-b4030104ce93)
+[General concepts of AI - VIDEO](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7e854b8f-dbd6-4e71-9f5f-b4030104ce93)
 
-## Materials and tutorials
+[General concepts of AI - SLIDES](https://docs.google.com/presentation/d/1rmr5TpPs8n1XI_mxNmUMen37h9-z0jym/edit?usp=sharing&ouid=103552997294835590141&rtpof=true&sd=true)
 
-[General concepts of AI](https://docs.google.com/presentation/d/1rmr5TpPs8n1XI_mxNmUMen37h9-z0jym/edit?usp=sharing&ouid=103552997294835590141&rtpof=true&sd=true)
-
+## Tutorials
 
 Time to explore concepts: 
 
