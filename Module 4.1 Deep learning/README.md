@@ -62,6 +62,11 @@ using molecular descriptors from the ESOL dataset.
 - [**Dataset**](https://drive.google.com/file/d/1NabkL2UGQaDF8DcNUtOeHTt2fjq0r2vr/view?usp=drive_link) 
 
 
+## Webinar - Applications in Research
+
+[Artificial intelligence in biomedical science in Argentina](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a9323155-75ca-4513-81b7-b39300b56820)
+
+
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
 
