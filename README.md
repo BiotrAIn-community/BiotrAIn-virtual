@@ -60,6 +60,17 @@ By the end of this course, participants will be able to apply foundational conce
     
 5. Deliver AI contents with best teaching/learning practices in biological research.
 
+
+##Clarification Note
+
+This course is the virtual version of two previous in-person editions: an initial "Pilot course" and a second edition "Hub and Spokes". This third edition has been redesigned as a fully open, online course to reach the broader scientific community across Latin America.
+
+As you progress through the course, you may encounter activities or learning resources that were originally designed for face-to-face training. While some of these activities may not be fully applicable in an individual, self-paced online setting, we have intentionally retained them to encourage their reuse in future training initiatives (maybe by you). Our goal is to support instructors, facilitators, and researchers throughout Latin America in adapting and reusing these high-quality educational materials for their own artificial intelligence training activities. 
+
+We appreciate your understanding and hope this context explains why certain activities may appear to have a group-oriented format. Preserving these materials is part of our commitment to increasing their long-term reusability and maximizing the impact of the resources developed by experts from across Latin America. 
+
+We hope these materials inspire and support future AI training efforts in the life sciences and contribute to strengthening the regional scientific community.
+
 ## More info
 
 Publication (pre-print): [Molina-Mora, et al. 2026 "Landscape and opportunities in Artificial Intelligence for Biosciences in Latin America"](https://doi.org/10.5281/zenodo.20633576)
