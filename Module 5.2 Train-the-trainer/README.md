@@ -30,13 +30,13 @@ Local instructors can deliver the theoretical content directly or use this recor
 
 [Train-the-trainer - VIDEO](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1be61dd7-b3dd-486f-8407-b3e2010e7dba)
 
-[Train-the-trainer - SLIDES](https://docs.google.com/presentation/d/1L_ggvacaTok6yhSXQfKcFY05JysG5Cx5/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
+[Train-the-trainer - SLIDES](https://docs.google.com/presentation/d/1GO-mdMP0VS9eAMO1ahKtFwbToYj9OWVZhg8u5dHUQyA/edit?usp=sharing)
 
 ## Materials and tutorials
 
 [Detailed guide to deliver the short version, including activities](https://docs.google.com/document/d/1x8Ybn6dTS60pZ6V4Bfx2Jh7GIgr65NQiKAToAsjEA1E/edit?tab=t.0)
 
-[Module 5.2: Train the trainer](https://docs.google.com/presentation/d/1GO-mdMP0VS9eAMO1ahKtFwbToYj9OWVZhg8u5dHUQyA/edit?usp=sharing)
+
 
 
 ## License
