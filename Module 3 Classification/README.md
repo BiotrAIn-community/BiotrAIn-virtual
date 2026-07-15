@@ -61,7 +61,7 @@ Before working on any Google Colab notebook, create your own copy by selecting F
 
 ## Webinar - Applications in Research
 
-[Artificial intelligence, machine learning and AlphaFold in research: experiences from Latin Americas](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2560c40b-e1c7-427d-a878-b38c010d1d89)
+[Artificial intelligence, machine learning and AlphaFold in research: experiences from Latin America](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2560c40b-e1c7-427d-a878-b38c010d1d89)
 
 ### Assessment
 [Assessment - Classification](https://forms.gle/8Y4fvSJk7XnPErgS7)
