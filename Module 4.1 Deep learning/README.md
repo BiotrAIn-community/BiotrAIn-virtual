@@ -47,6 +47,11 @@ Local instructors can deliver the theoretical content directly or use this recor
 <br><br>
 
 ### Practical Cases  
+
+Before working on any Google Colab notebook, create your own copy by selecting File → Save a copy in Drive. Always work from your copy to ensure your changes are saved. Repeat this step for every Google Colab notebook used throughout the course.
+
+*How Google Colab works*: Code is organized into cells. Execute each cell by clicking the Run (▶) button (left side of the code). Run the cells in order, from top to bottom, as each step may depend on the results of the previous one. Wait for a cell to finish executing before proceeding to the next.
+
 Each case study is supported by two types of notebooks:
 
 - **Attendee Notebook:** Designed for hands-on learning, including guided activities and TODO tasks to actively engage attendees in the implementation process.  
