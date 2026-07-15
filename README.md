@@ -62,6 +62,8 @@ By the end of this course, participants will be able to apply foundational conce
 
 ## More info
 
+Publication (pre-print): [Molina-Mora, et al. 2026 "Landscape and opportunities in Artificial Intelligence for Biosciences in Latin America"](10.5281/zenodo.20633576)
+
 More details at:  [EMBL-EBI](https://www.ebi.ac.uk/training/our-partnerships/biotrain)
 
 ## License
