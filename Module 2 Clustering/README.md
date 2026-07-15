@@ -40,6 +40,11 @@ Local instructors can deliver the theoretical content directly or use this recor
 [Clustering: Dimensionality Reduction](https://docs.google.com/presentation/d/14IFKYBtE_miKg7nCuF2hJuadDwgs8N9K/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
 
 ### Tutorials
+
+Before working on any Google Colab notebook, create your own copy by selecting File → Save a copy in Drive. Always work from your copy to ensure your changes are saved. Repeat this step for every Google Colab notebook used throughout the course.
+
+*How Google Colab works*: Code is organized into cells. Execute each cell by clicking the Run (▶) button (left side of the code). Run the cells in order, from top to bottom, as each step may depend on the results of the previous one. Wait for a cell to finish executing before proceeding to the next.
+
 [Notebook 1 Understanding the EMP Dataset](https://colab.research.google.com/drive/13IgS-6J_gzDYdTlPzp4cxVk3pbZe05dZ)   
 [Notebook 2 Beta diversity](https://colab.research.google.com/drive/1h7PQhuDl-GZ3a4JTz4-k0Ybk2KfOcb_A)   
 [Notebook 3 Dimentional Reduction](https://colab.research.google.com/drive/1yAoF9JOnCPCRBMplS94W9-lBSlpGv2yc)   
