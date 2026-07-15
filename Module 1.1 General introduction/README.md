@@ -10,6 +10,8 @@
 
 [Welcome and General Introduction - Slides](https://docs.google.com/presentation/d/1rsc6-OCrkApznHZojNTVDbPXLvPiCCAF/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
 
+[The BiotrAIn project: opportunities from Latin America](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f7251fb4-a197-47af-9d62-b38b012b655c)
+
 
 ## Module #1.1: General concepts in AI 
 
@@ -51,8 +53,6 @@ Time to explore concepts:
 * Exploring Classification: After user registration, visit "Examples" and enjoy!
 [Exploring Classification](https://app.landing.ai/app/95253393852424/examples)
 
-## Webinar
-[The BiotrAIn project: opportunities from Latin America](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f7251fb4-a197-47af-9d62-b38b012b655c)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
