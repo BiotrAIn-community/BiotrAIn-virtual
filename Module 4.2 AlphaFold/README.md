@@ -50,6 +50,10 @@ Then complete the tutorial at [https://pymolwiki.org/index.php/Biochemistry\_stu
 
 **Practice folder (all materials)** https://drive.google.com/drive/folders/1qIkLzQP4-NXZelJawpysr9VlBqpQhVKS?usp=drive_link
 
+## Webinar - Applications in Research
+
+[From RNA to the field: artificial intelligence applications in bioinformatics and agriculture in Argentina](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f482a1d2-d304-4de3-81ab-b3a10123f097)
+
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
