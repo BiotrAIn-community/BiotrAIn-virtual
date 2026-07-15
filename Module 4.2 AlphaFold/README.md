@@ -2,7 +2,7 @@
 
 # BiotrAIn course: Concepts, approaches and applications of Artificial Intelligence in bioscience
 
-### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
+### Virtual Course - Latin America
 
 ## Module 4.2: Deep Learning: application to protein structure prediction with Alphafold.
 
