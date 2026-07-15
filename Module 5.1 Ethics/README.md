@@ -44,7 +44,6 @@ c) Identify potential risks, biases, and societal consequences of AI technologie
 d) Summarise steps to use AI responsibly
 
 ## Recording - Theoretical content
-Local instructors can deliver the theoretical content directly or use this recording:
 
 [Ethics - Responsible Use of AI](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b0110e72-b5a3-40dc-9c66-b3fe0103c4e0)
 
