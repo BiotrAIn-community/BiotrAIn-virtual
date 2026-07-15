@@ -57,6 +57,9 @@ Before working on any Google Colab notebook, create your own copy by selecting F
 
 [Notebook 7 Clustering cancer data (solved)](https://colab.research.google.com/drive/1001_A_Rr1P3B8z96cOzQ6v96GL9URkRh?usp=sharing)
 
+# Webinar - Applications in Research
+
+[Artificial intelligence for exploring and understanding microbiomes](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=62e17d54-769a-48d6-8b26-b3a100f00e21)
 
 ## Other material
 [Supporting Notes](https://docs.google.com/document/d/1RNrY1eII0ZJ00_ZcJ_mUGt7a2jp4YI8S/edit?usp=sharing&ouid=108688812954230337046&rtpof=true&sd=true)  
