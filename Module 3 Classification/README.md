@@ -63,8 +63,6 @@ Before working on any Google Colab notebook, create your own copy by selecting F
 
 [Artificial intelligence, machine learning and AlphaFold in research: experiences from Latin America](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2560c40b-e1c7-427d-a878-b38c010d1d89)
 
-### Assessment
-[Assessment - Classification](https://forms.gle/8Y4fvSJk7XnPErgS7)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
